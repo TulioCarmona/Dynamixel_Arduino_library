@@ -8,7 +8,7 @@ To use this library with your respective Dynamixel motor go to the [official sit
 
 Whit the information of the table then you can use the libreary functions write/read 1,2,4 bytes (functions in this library work similar to the Matlab functions provided in [Dynamixel SDK](https://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_sdk/overview/))
 
-# Components needed
+# Connection
 To use the Dynamixel motors without their propietary interface hardware it is necesary 2 try-state-buffers and a Not gate. There're some integrated circuits that can be use or the circuit can be asembly be individual components.
 
 The conecction diagram is provided below.
